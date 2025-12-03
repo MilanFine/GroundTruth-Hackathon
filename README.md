@@ -1,4 +1,4 @@
-# Auto-Creative Engine
+# H-003 | AI Creative Studio
 
 The Auto-Creative Engine is a powerful tool designed to automate the creation of marketing assets. By uploading a brand logo and a product image, the engine generates multiple high-quality ad creative variations using Generative AI.
 
